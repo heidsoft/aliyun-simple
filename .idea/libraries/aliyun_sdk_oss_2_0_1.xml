@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="aliyun-sdk-oss-2.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/aliyun-sdk-oss-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/taobao-sdk-java-online_standard-20141117.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
