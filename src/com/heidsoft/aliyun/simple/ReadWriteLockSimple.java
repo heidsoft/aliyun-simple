@@ -65,7 +65,6 @@ class Data {
             System.out.println(Thread.currentThread().hashCode()+" set begin:"+sdf.format(new Date()));
             write.unlock();
         }
-
     }
 
     public void get(){
